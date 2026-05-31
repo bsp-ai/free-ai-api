@@ -1,5 +1,7 @@
 # free-ai-api
 
+## Freemodel
+
 https://freemodel.dev/invite/FRE-e71f7daa
 
 提供前沿AI模型免费使用的平台，口号是 “Frontier AI, free for everyone”（前沿AI，人人免费）。 
