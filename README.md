@@ -6,6 +6,12 @@ https://freemodel.dev/invite/FRE-e71f7daa
 
 注册即送 $300 免费 API 积分：无需信用卡，无隐藏费用，直接可用。
 
+
+不定时赠送$100 使用额度
+
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/61bdeeb9-7a17-4e05-8f2e-5daa9f5089ac" />
+
+
 可用大模型：
 
 claude-opus-4-7
