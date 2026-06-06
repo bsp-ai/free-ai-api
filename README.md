@@ -25,6 +25,15 @@ claude-haiku-4-5-20251001
 <img width="837" height="257" alt="image" src="https://github.com/user-attachments/assets/cbc26021-c7cf-45af-8199-1df3dcea1473" />
 
 
-# tokenlb
+## tokenlb
 
 https://tokenlb.net/sign-up?aff=iqik
+
+支持的大模型
+claude-opus-4-7
+claude-opus-4-6
+claude-sonnet-4-6
+gpt-5.5
+gpt-5.4
+gpt-5.4-mini
+gemini-3-flash-preview
